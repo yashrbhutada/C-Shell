@@ -1,1 +1,1 @@
-mkdir hello\ndiscover hello\ncd hello\nmkdir \nigger\ncd ..\ncd Public\nls\nmkdir hello\nseek\nproclure\nproclore\nexit\nseek\nmkdir \nigga\nseek\nd.c\ncd ~\nexit\n
+
